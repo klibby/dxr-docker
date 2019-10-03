@@ -10,7 +10,7 @@ paramiko==1.15.3
 pbr==1.8.0
 pycrypto==2.6.1
 python-jenkins==1.2.1
-PyYAML==3.11
+PyYAML==5.1
 requests==2.18.4
 six==1.10.0
 stevedore==1.8.0
