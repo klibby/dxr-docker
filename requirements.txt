@@ -6,7 +6,7 @@ Jinja2==2.8
 MarkupSafe==0.23
 mach==0.5.1
 ordereddict==1.1
-paramiko==1.15.3
+paramiko==2.0.9
 pbr==1.8.0
 pycrypto==2.6.1
 python-jenkins==1.2.1
